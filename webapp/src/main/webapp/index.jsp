@@ -2,3 +2,5 @@
 <h2> hello deepu </h2>
 <h1> doing project with you </h1>
 <h2> practising devops </h2>
+<h1> r u having any notes </h1>
+<h2> no i am try to do it </h2>
